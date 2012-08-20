@@ -1,0 +1,2 @@
+the bend tool pictured is wrongly built, it should bend the piece
+as the tool is raised upwards, not as it descends.
